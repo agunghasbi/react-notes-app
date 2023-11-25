@@ -1,8 +1,9 @@
-# React + Vite
+# Submission for Belajar Membuat Aplikasi Web dengan React Dicoding
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Materi
+- Pengenalan React :  Berkenalan dengan React, mengetahui alasan mempelajari React, dan mengenal ekosistem yang ada di React 
+- Konsep Dasar React : Belajar tentang konsep dasar React seperti composition, declarative code, unidirectional data flow, dan menyadari bahwa React hanyalah JavaScript.
+- React UI Component : Belajar tentang membangun UI di React seperti mengenal element dan component. Serta, belajar juga konsep component properti yang membuat UI aplikasi bersifat reusable.
+- Stateful Component : Belajar tentang class component, menggunakan state di dalam component, memahami dan mempraktikkan controlled component.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://react-notes-app-woad.vercel.app/
